@@ -6,9 +6,9 @@ url:            "https://chesterhow.github.io"
 
 # Author
 author:
-  name:         Chester How
+  name:         Taylor Bingham
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        info@taylorbingham.com
 
 # Build settings
 markdown:       kramdown
